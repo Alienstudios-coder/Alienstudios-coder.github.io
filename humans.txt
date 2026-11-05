@@ -1,0 +1,9 @@
+/* TEAM */
+  Lead Software Developer: Paul Muthoni
+  Contact: paulmuthoni88@gmail.com
+  From: Kasarani, Nairobi, Kenya
+
+/* SITE */
+  Built with: HTML, CSS, JavaScript — no frameworks, no trackers
+  Fonts: Inter, Space Grotesk (self-hosted)
+  Last update: 2026-11-04

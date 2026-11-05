@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulmuthoni88-coder.github.io/alien-studios-website/sitemap.xml
